@@ -4,7 +4,7 @@
 ## ASL Sign Language Detection
 <p>
  <img src="https://developers.google.com/static/mediapipe/images/solutions/hand-landmarks.png" width="450" align="right" hspace="10" >
-A deep learning AI model that detects ASL alphabet sign language. It was built using python and Tensorflow, Mediapipe, OpenCV etc. The computer vision captures user's hand through the camera and Mediapipe read the coordinates of the hand landmarks. These landmarks are used as inputs for the model. 
+A deep learning AI model that detects ASL alphabet sign language. It was built using python and Tensorflow, Mediapipe, OpenCV etc. The OpenCV captures user's hand through the camera and Mediapipe reads the coordinate of the hand landmarks. These landmarks are used as inputs for the model. 
  
 [**Sign-Language-Detection-AI**](https://github.com/MoonS1120/Sign-Language-Detection-AI/tree/main)
  
