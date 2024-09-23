@@ -17,6 +17,8 @@ A deep learning AI model that detects ASL alphabet sign language. It was built u
 A website written using HTML/CSS and JavaScript. It tests user's typing speed and displays WPM(word per minute), ACC(accuracy).
 
 [**Typing-Speed-Test**](https://github.com/MoonS1120/Typing-Speed-Test)
+
+[Website](https://moons1120.github.io/Typing-Speed-Test/)
 </p>
 
 <br> 
